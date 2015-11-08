@@ -1,2 +1,2 @@
 # CatchAllRepo
-My first respository, nothing exciting yet
+My first repository, nothing exciting yet

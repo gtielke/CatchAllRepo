@@ -1,0 +1,7 @@
+body { font-family: 'Old English Text MT', Arial, sans-serif; color: #93469b}
+
+	.HdrClass {color: #00ff21; text-align: center; font-family: Helvetica, Arial, sans-serif;}
+	.UndClass {text-decoration:underline;}
+	#LongPar {font-weight: bold;}
+	p:first-of-type {color: green;}
+	a:hover {color: brown;}
